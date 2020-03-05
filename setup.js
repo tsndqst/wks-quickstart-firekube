@@ -49,8 +49,8 @@ const footloose = config => ({
         containerPort: 22,
         hostPort: 2222,
       }, {
-        containerPort: 6443,
-        hostPort: 6443,
+        containerPort: 6444,
+        hostPort: 6444,
       }, {
         containerPort: 30443,
         hostPort: 30443,
